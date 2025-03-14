@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kerensky585
 - 👀 I’m interested in coding, gaming, 3D printing and maker type stuff in general.
-- 🌱 I’m currently getting into the Cloud and Security stuff.
+- 🌱 I’m currently getting into the Cloud and Security space, ethical hacking, pen testing etc.
 - 📫 How to reach me: hicks1986@mailbox.org
 
 <!---
